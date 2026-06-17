@@ -1,12 +1,3 @@
-echo "def calculate_grade(marks):
-    if marks >= 90:
-        return 'A'
-    elif marks >= 75:
-        return 'B'
-    elif marks >= 60:
-        return 'C'
-    else:
-        return 'F'
-
-print(calculate_grade(85))" > grade_calculator.py
+elif marks >= 70:
+    return "B"
 
